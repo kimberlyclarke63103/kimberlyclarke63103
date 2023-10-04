@@ -32,6 +32,8 @@ Here are some of the skills I bring to the table:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimberlyclarke63103&show_icons=true&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kimberly-clarke&color=blue)
+
 📧 **Email:** [kimberly.clarke@example.com](mailto:kimberly.clarke@example.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's connect and learn together! 🤝
