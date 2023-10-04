@@ -28,6 +28,10 @@ Here are some of the skills I bring to the table:
 
 - 💬 **Communication and Collaboration:** Effective communication is key. I collaborate with cross-functional teams and vendors to deliver seamless IT solutions.
 
+## GitHub Stats 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimberlyclarke63103&show_icons=true&theme=radical)
+
 📧 **Email:** [kimberly.clarke@example.com](mailto:kimberly.clarke@example.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's connect and learn together! 🤝
